@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://sheryar-ahmed.netlify.app/sheryarsa.jpg" alt="Profile Picture" width="200" height="200">
-</p>
 About Me
 Hello, there! Welcome to my GitHub profile. I am a passionate and dedicated developer with a focus on the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love creating stunning and intuitive web applications that provide an exceptional user experience. My expertise lies in both frontend and backend development, allowing me to deliver end-to-end solutions.
 
 Skills
+
 Frontend Development: HTML, CSS, JavaScript, React.js, Redux, Sass, Bootstrap
 Backend Development: Node.js, Express.js, RESTful APIs, GraphQL
 Database: MongoDB, MySQL, PostgreSQL
