@@ -1,5 +1,5 @@
 👋 Hey there! I’m Sheryar Ahmed <br/>
-👀 I’m a Full Stack Engineer passionate about building smooth, user-friendly websites. I’ve solved over 450+ LeetCode problems! <br/>
+👀 I’m a Full Stack Engineer passionate about building smooth, user-friendly websites. I’ve solved over 500+ LeetCode problems! <br/>
 🌱 I’m currently learning more Microservices, Algorithms, more Cloud, more OOD systems, Design Patterns and Databases<br/>
 💞️ I’m looking to collaborate on projects with JavaScript, React, Next, Postgresql, Mysql, Node.js, Express.js, Framer-motion.js and Sockets. <br/>
 📫 How to reach me: <br/>
