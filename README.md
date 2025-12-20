@@ -1,5 +1,3 @@
-# Sheryar Ahmed
-
 I am a Full Stack Engineer passionate about building smooth, user-friendly, and scalable web applications. I focus on React, Next.js, Node.js, and modern cloud and database technologies.  
 
 I have solved over 500 LeetCode problems and continuously improve my skills in Microservices, Object-Oriented Design, Design Patterns, and Cloud Architecture.  
