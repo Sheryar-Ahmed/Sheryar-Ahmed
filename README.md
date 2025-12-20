@@ -47,5 +47,4 @@ I have solved over 500 LeetCode problems and continuously improve my skills in M
 
 ## GitHub Stats
 
-![Sheryar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheryar-Ahmed&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sheryar-Ahmed&theme=radical)
+![Sheryar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheryar-Ahmed&show_icons=true&theme=radical)
