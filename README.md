@@ -1,146 +1,94 @@
-# Full Stack Engineer | Scalable Systems & Real-Time Architecture
+# Full Stack Engineer
 
-🚀 Built systems serving 2,000+ active users
-⚡ Reduced latency by up to 85% (6–8s → <1s)
-🧠 Solved 500+ DSA problems across core patterns
-
-Designing and scaling backend systems where performance, reliability, and real-time communication are critical.
+I build backend systems and real-time applications with a focus on performance, scalability, and reliability.
+Experience working on production systems serving thousands of users.
 
 ---
 
-## 🎯 What I Build
+## Experience
 
-I specialize in engineering systems that operate under real-world load and complexity:
+### Techventure (Staff Augmentation)
 
-* High-concurrency backend APIs and distributed systems
-* Real-time applications using WebSockets and event-driven architectures
-* Scalable SaaS platforms with RBAC, payments, and complex workflows
-* Performance-focused systems with measurable latency improvements
+**Oct 2024 – Present**
 
----
+**PACK (SaaS Platform)** — Apr 2025 – Present
 
-## 💼 Professional Experience
+* Working on a cloud-based SaaS platform with full-stack responsibilities
+* Building and optimizing APIs and frontend components for production use
 
-### Techventure (Staff Augmentation) | Oct 2024 – Present
+**Raumdeuter (Fan Engagement Platform)** — Oct 2024 – Apr 2025
 
-**Client: PACK (SaaS Platform)** | Apr 2025 – Present
-*Cloud-based SaaS engineering (Azure)*
-
-* Contributing to full-stack development of a scalable SaaS platform
-* Building and optimizing APIs and frontend components for production workloads
-
-**Client: Raumdeuter (Fan Engagement Platform)** | Oct 2024 – Apr 2025
-*System scaling & performance optimization*
-
-* Reduced dashboard latency from 6–8s to sub-second via parallel API execution (`Promise.allSettled`)
-* Designed ranking and survey systems handling thousands of responses with strong data integrity
-* Refactored monolithic backend into MVC architecture, improving delivery speed by 40%
-* Built responsive React components with Redux Toolkit and TypeORM integration
+* Reduced dashboard latency from 6–8 seconds to sub-second using parallel API execution
+* Designed survey and ranking systems handling large datasets with data integrity
+* Refactored backend architecture, improving development speed and maintainability
+* Built responsive frontend components with structured state management
 
 ---
 
-### Appsologix | Jun 2024 – Sep 2024
+### Appsologix
+
+**Jun 2024 – Sep 2024**
 
 **HealthSIA (Healthcare Platform)**
-*Multi-role system & real-time features*
 
-* Implemented JWT-based RBAC supporting 7 user roles
-* Built real-time chat using Socket.io and appointment scheduling workflows
-* Developed dynamic questionnaire engine with conditional logic
+* Implemented role-based access system supporting multiple user types
+* Built real-time features including chat and scheduling
+* Developed dynamic form system with conditional logic
 
-**Peepskill (Sports Social Network)**
-*High-traffic feed & performance optimization*
+**Peepskill (Social Platform)**
 
-* Built platform serving 2,000+ users with feed aggregation and real-time messaging
-* Reduced comment loading from 3–4s to <500ms using optimized parent-child schema
-* Designed scalable comment and interaction system
+* Worked on a platform with 2,000+ users including feeds and real-time messaging
+* Improved data loading performance significantly through schema optimization
 
 **Royal Vision Tourism (Booking Platform)**
-*E-commerce & payments infrastructure*
 
-* Integrated multi-currency payments (CCAvenue) and dynamic pricing system
-* Implemented coupon validation and 25+ admin modules
-
----
-
-## 🛠️ Tech Stack
-
-**Backend:** Node.js, NestJS, Express, TypeORM, Sequelize
-**Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS
-**Databases:** MySQL, PostgreSQL, MongoDB, Redis
-**Real-Time:** WebSockets, Socket.io, Push Notifications (FCM)
-**Infrastructure:** Docker, AWS, GCP, CI/CD, Nginx
-**Languages:** JavaScript, TypeScript, Python
+* Integrated payment workflows and pricing logic
+* Built internal tools and admin modules
 
 ---
 
-## 📂 Featured Projects
+## Projects
 
-### [Ticketing Microservices Web App](https://github.com/Sheryar-Ahmed/ticketing-microservices-web-app)
+**Ticketing Microservices Web App**
+Event-driven microservices system with authentication, orders, and payments
 
-Production-style microservices architecture using Next.js, MongoDB, and Kubernetes.
-Implements event-driven communication, authentication, order management, and payment workflows.
+**Calo Football Manager**
+Full-stack application with relational data modeling and complex business logic
 
----
+**MERN Chat App with Socket.IO**
+Real-time chat application with persistent messaging and room-based design
 
-### [Calo Football Manager](https://github.com/Sheryar-Ahmed/calo-football-manager-task)
-
-Full-stack fantasy football manager with complex business logic and relational data modeling.
-Demonstrates advanced backend design with MySQL and Sequelize.
-
----
-
-### [MERN Chat App with Socket.IO](https://github.com/Sheryar-Ahmed/MERN-Chat-App-with-SocketIO)
-
-Real-time chat system with room-based architecture and persistent messaging.
-Focus on WebSocket scalability and backend performance.
+**MERN CI/CD AWS**
+CI/CD pipeline with containerization and cloud deployment
 
 ---
 
-### [MERN CI/CD AWS](https://github.com/Sheryar-Ahmed/mern-cicd-aws)
+## Tech Stack
 
-End-to-end CI/CD pipeline using GitHub Actions, Docker, and AWS.
-Demonstrates automated deployment and production-ready infrastructure.
-
----
-
-## 🧠 Problem Solving
-
-Solved 500+ LeetCode problems across key domains: Arrays, Graphs, Trees, Dynamic Programming.
-
-Strong focus on:
-
-* translating algorithmic thinking into backend optimizations
-* improving time/space complexity in production systems
-* designing efficient and scalable data structures
+Backend: Node.js, NestJS, Express
+Frontend: React, Next.js
+Databases: MySQL, PostgreSQL, MongoDB, Redis
+Real-time: WebSockets, Socket.io
+Infrastructure: Docker, AWS, CI/CD
+Languages: JavaScript, TypeScript, Python
 
 ---
 
-## 🚀 Currently Building
+## Problem Solving
 
-**AI-Powered Document Q&A System**
-LLM-based system for document understanding and semantic search.
-
-* Vector embeddings with LangChain
-* Context-aware response generation
-* FastAPI backend for scalable processing
+Solved 500+ problems across data structures and algorithms.
+Focus on applying these concepts to real-world backend performance and system design.
 
 ---
 
-## 🔗 Connect
+## Currently Working On
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/sheryar-ahmed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me\&logoColor=white)](https://sheryarahmed.netlify.app)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium\&logoColor=white)](https://medium.com/@sheryarahmedsa)
-
-📧 [royalsheryar505@gmail.com](mailto:royalsheryar505@gmail.com)
+AI-based document processing system using semantic search and LLMs.
 
 ---
 
-## 📈 GitHub Stats
+## Contact
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheryar-ahmed\&theme=default)
-
----
-
-💼 Open to backend/full-stack roles focused on scalable systems, real-time applications, and high-performance architectures.
+LinkedIn: https://linkedin.com/in/sheryar-ahmed
+Portfolio: https://sheryarahmed.netlify.app
+Email: [royalsheryar505@gmail.com](mailto:royalsheryar505@gmail.com)
