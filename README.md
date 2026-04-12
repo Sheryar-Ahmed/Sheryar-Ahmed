@@ -93,8 +93,7 @@ LLM-based document analysis with semantic search, vector embeddings (LangChain),
 
 ## 📈 GitHub Stats
 
-![Sheryar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheryar-Ahmed&show_icons=true&theme=radical)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheryar-ahmed&theme=default)
 ---
 
 **Open to remote opportunities with engineering teams building scalable systems.**
