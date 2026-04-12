@@ -49,17 +49,17 @@ Experience working on production systems serving thousands of users.
 
 ## Projects
 
-**Ticketing Microservices Web App**
-Event-driven microservices system with authentication, orders, and payments
+### [Ticketing Microservices Web App](https://github.com/Sheryar-Ahmed/ticketing-microservices-web-app)
+Next.js + MongoDB + Kubernetes microservices architecture with authentication, order management, and payment processing. Demonstrates event-driven design and service orchestration.
 
-**Calo Football Manager**
-Full-stack application with relational data modeling and complex business logic
+### [Calo Football Manager](https://github.com/Sheryar-Ahmed/calo-football-manager-task)
+Full-stack fantasy football manager with MySQL + Sequelize backend, team management, transfer market, and responsive React UI. Shows database design and complex business logic.
 
-**MERN Chat App with Socket.IO**
-Real-time chat application with persistent messaging and room-based design
+### [MERN Chat App with Socket.IO](https://github.com/Sheryar-Ahmed/MERN-Chat-App-with-SocketIO)
+Real-time chat application using WebSockets with persistent message history, room-based architecture, and Express backend.
 
-**MERN CI/CD AWS**
-CI/CD pipeline with containerization and cloud deployment
+### [MERN CI/CD AWS](https://github.com/Sheryar-Ahmed/mern-cicd-aws)
+Demonstrates automated deployment pipelines with GitHub Actions, Docker containerization, and AWS infrastructure setup.
 
 ---
 
