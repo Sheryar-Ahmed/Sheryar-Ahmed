@@ -7,7 +7,7 @@ Experience working on production systems serving thousands of users.
 
 ## Experience
 
-### Techventure (Staff Augmentation)
+### Techwenture (Staff Augmentation)
 
 **Oct 2024 – Present**
 
