@@ -1,94 +1,89 @@
-# Full Stack Engineer
+# Hi, I'm Sheryar Ahmed 👋
 
-I build backend systems and real-time applications with a focus on performance, scalability, and reliability.
-Experience working on production systems serving thousands of users.
+**Full-Stack Engineer** who builds *and operates* production systems, end to end — schema, API, frontend, deploy, and on-call.
 
----
+4+ years across SaaS, healthcare, real-time streaming, and marketplaces. Most recently I designed, built, and now run **Pathment**, an AI-powered mentorship platform serving 3,000+ users, solo.
 
-## Experience
-
-### Techwenture (Staff Augmentation)
-
-**Oct 2024 – Present**
-
-**PACK (SaaS Platform)** — Apr 2025 – Present
-
-* Working on a cloud-based SaaS platform with full-stack responsibilities
-* Building and optimizing APIs and frontend components for production use
-
-**Raumdeuter (Fan Engagement Platform)** — Oct 2024 – Apr 2025
-
-* Reduced dashboard latency from 6–8 seconds to sub-second using parallel API execution
-* Designed survey and ranking systems handling large datasets with data integrity
-* Refactored backend architecture, improving development speed and maintainability
-* Built responsive frontend components with structured state management
+🌐 [Portfolio](https://sheryarahmed.netlify.app) · 🚀 [Pathment (live)](https://pathment.me) · 💼 [LinkedIn](https://linkedin.com/in/sheryar-ahmed)
 
 ---
 
-### Appsologix
+## 🧩 What I'm building
 
-**Jun 2024 – Sep 2024**
+### [Pathment](https://pathment.me) — Founder & Engineer
+An AI-powered B2B mentorship SaaS I designed, built, and operate solo.
 
-**HealthSIA (Healthcare Platform)**
-
-* Implemented role-based access system supporting multiple user types
-* Built real-time features including chat and scheduling
-* Developed dynamic form system with conditional logic
-
-**Peepskill (Social Platform)**
-
-* Worked on a platform with 2,000+ users including feeds and real-time messaging
-* Improved data loading performance significantly through schema optimization
-
-**Royal Vision Tourism (Booking Platform)**
-
-* Integrated payment workflows and pricing logic
-* Built internal tools and admin modules
+- **3,000+ users** across admin / mentor / mentee roles, **110 Postgres tables across 11 domains**
+- Scoped RBAC (org → program → clan → self) with a permission catalog, role delegation, and full audit logging
+- Self-hosted live video (Jitsi: prosody / jicofo / JVB) with auto-attendance and talk-time contribution scoring
+- Postgres-backed email queue (backoff, dead-letter, idempotency, suppression) on a 500K emails/month budget — no Redis/Bull
+- AI roadmap pipeline with multi-provider fallback (Groq → OpenAI → rule-based) and structured, sanitized output
+- Docker + Caddy (auto-TLS) + GitHub Actions CI/CD with a zero-downtime release runbook
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
 ### [Ticketing Microservices Web App](https://github.com/Sheryar-Ahmed/ticketing-microservices-web-app)
-Next.js + MongoDB + Kubernetes microservices architecture with authentication, order management, and payment processing. Demonstrates event-driven design and service orchestration.
+A StubHub-style marketplace built as **6 event-driven microservices** (Next.js, NATS, MongoDB, Redis, Bull, Stripe, Kubernetes). Shared TypeScript package for type-safe event contracts, optimistic concurrency control for out-of-order events, and crash-safe event replay via durable NATS subscriptions.
 
 ### [Calo Football Manager](https://github.com/Sheryar-Ahmed/calo-football-manager-task)
-Full-stack fantasy football manager with MySQL + Sequelize backend, team management, transfer market, and responsive React UI. Shows database design and complex business logic.
+Full-stack fantasy football manager (React, Node.js, MySQL, Sequelize) with team management, a transfer market, and complex business logic. Shows solid database design and API structure.
 
 ### [MERN Chat App with Socket.IO](https://github.com/Sheryar-Ahmed/MERN-Chat-App-with-SocketIO)
-Real-time chat application using WebSockets with persistent message history, room-based architecture, and Express backend.
+Real-time chat over WebSockets with persistent message history, room-based architecture, and an Express backend.
 
-### [MERN CI/CD AWS](https://github.com/Sheryar-Ahmed/mern-cicd-aws)
-Demonstrates automated deployment pipelines with GitHub Actions, Docker containerization, and AWS infrastructure setup.
-
----
-
-## Tech Stack
-
-Backend: Node.js, NestJS, Express
-Frontend: React, Next.js
-Databases: MySQL, PostgreSQL, MongoDB, Redis
-Real-time: WebSockets, Socket.io
-Infrastructure: Docker, AWS, CI/CD
-Languages: JavaScript, TypeScript, Python
+### [MERN CI/CD on AWS](https://github.com/Sheryar-Ahmed/mern-cicd-aws)
+Automated deployment pipeline: GitHub Actions, Docker containerization, and AWS infrastructure setup.
 
 ---
 
-## Problem Solving
+## 💼 Experience
 
-Solved 500+ problems across data structures and algorithms.
-Focus on applying these concepts to real-world backend performance and system design.
+**Pathment** — Founder & Engineer · *Jan 2026 – Present*
+Built and operate an AI-powered mentorship SaaS (3,000+ users, solo).
+
+**TechWinture** (Staff Augmentation, Germany · Remote) — Full-Stack Engineer · *Oct 2025 – Present*
+- *PACK (Azure SaaS):* migrated a FastAPI service from Hexagonal to Modular architecture; integrated Microsoft Graph API + Azure Entra ID
+- *Raumdeuter (fan engagement):* SSE + Redis Pub/Sub real-time architecture; cut dashboard load from 6–8s to sub-second
+
+**Appsologix** — Full-Stack Engineer · *Jun 2024 – Sep 2025*
+- HealthSIA (7-role RBAC healthcare), Peepskill (2,000+ users), Royal Vision (booking + payments on GCP)
+
+**Freelance / Self-Employed** — Full-Stack Developer · *Sep 2022 – Jun 2024*
+- Pixy Live (live-streaming platform: backend, agency system, virtual gift economy), Doorcut (barber marketplace, React Native + backend), MERN LMS
+
+**Oqvest** (US Mortgage Platform) — Full-Stack Engineer · *Jun 2023 – Oct 2023*
+- Backend workflows, Playwright web automation, AWS + Docker + CI/CD
+
+**Z2A Tech** — Frontend Engineer · *Sep 2021 – Sep 2022*
 
 ---
 
-## Currently Working On
+## 🛠️ Tech Stack
 
-AI-based document processing system using semantic search and LLMs.
+**Languages:** JavaScript, TypeScript, Python
+**Backend:** Node.js, Express, NestJS, FastAPI, REST, GraphQL
+**Frontend:** React, React Native, Next.js, Tailwind CSS, Redux
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis
+**Real-time & Messaging:** Socket.IO, WebSockets, SSE, NATS, Bull
+**AI / LLM:** RAG, LangChain, multi-provider LLM pipelines (Groq / OpenAI)
+**Web Data:** Playwright, BeautifulSoup, scraping
+**DevOps:** Docker, Kubernetes, AWS, GCP, Caddy, Nginx, GitHub Actions
 
 ---
 
-## Contact
+## 🧠 Also
 
-LinkedIn: https://linkedin.com/in/sheryar-ahmed
-Portfolio: https://sheryarahmed.netlify.app
-Email: [royalsheryar505@gmail.com](mailto:royalsheryar505@gmail.com)
+- Solved **500+ DSA problems** — applied to real backend performance and system design
+- Mentor **50+ developers** through Dev Weekends
+- Currently exploring: an AI document-processing system with **RAG + semantic search**
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** https://linkedin.com/in/sheryar-ahmed
+- **Portfolio:** https://sheryarahmed.netlify.app
+- **Pathment:** https://pathment.me
+- **Email:** royalsheryar505@gmail.com
