@@ -66,14 +66,14 @@ PostgreSQL internals, hands-on — reproducing behaviour in a lab, not reading a
 
 ## 🛠️ Tech Stack
 
-**Languages:** TypeScript, JavaScript, Python
-**Backend:** Node.js, Express, FastAPI, REST, GraphQL
-**Frontend:** React, Next.js, React Native, Tailwind CSS, Redux
-**Databases:** PostgreSQL (MVCC, isolation levels, locking, `SKIP LOCKED` queues), MySQL, MongoDB, Redis
-**Real-time & Messaging:** Socket.IO, WebSockets, SSE, NATS, Kafka, Bull
-**AI / LLM:** BYOK integrations across OpenAI-compatible providers, RAG, structured output with validation + repair passes
-**Observability:** OpenTelemetry, Prometheus, Grafana, Loki, Tempo
-**DevOps & Cloud:** Docker, Kubernetes, GitHub Actions, AWS, Azure (Container Apps, Entra ID), GCP, Caddy, Nginx
+- **Languages** — TypeScript, JavaScript, Python
+- **Backend** — Node.js, Express, FastAPI, REST, GraphQL
+- **Frontend** — React, Next.js, React Native, Tailwind CSS, Redux
+- **Databases** — PostgreSQL (MVCC, isolation levels, locking, `SKIP LOCKED` queues), MySQL, MongoDB, Redis
+- **Real-time & Messaging** — Socket.IO, WebSockets, SSE, NATS, Kafka, Bull
+- **AI / LLM** — BYOK integrations across OpenAI-compatible providers, RAG, structured output with validation + repair passes
+- **Observability** — OpenTelemetry, Prometheus, Grafana, Loki, Tempo
+- **DevOps & Cloud** — Docker, Kubernetes, GitHub Actions, AWS, Azure (Container Apps, Entra ID), GCP, Caddy, Nginx
 
 ---
 
